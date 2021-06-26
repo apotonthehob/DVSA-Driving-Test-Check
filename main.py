@@ -1,6 +1,13 @@
 """
 For personal use
 Checkinng for cancellations at the centre booked
+
+Added:
+1.  checking for specific time - within a range
+2.  keeping refreshing and checking when no desired slot available - with pause between sessions
+3.  printing all availability and play sound when desired test slot is available 
+3.  playing sound when encountering CAPTCHA or errors - manual input to allow the script to continue
+
 """
 
 
